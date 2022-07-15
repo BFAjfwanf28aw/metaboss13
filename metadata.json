@@ -1,0 +1,56 @@
+{
+  "name": "Festive Leakey",
+  "symbol": "FLIP",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 2000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://cdn.flippies.art/img/9388.png",
+  "attributes": [
+  {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 9388
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Attribute Count",
+      "value": 3
+    },
+    {
+      "trait_type": "background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "type",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "mouthpiece",
+      "value": "None"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Summer yellow"
+    },
+    {
+      "trait_type": "chest",
+      "value": "P hub"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
