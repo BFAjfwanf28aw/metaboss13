@@ -6,17 +6,14 @@
   "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://cdn.flippies.art/img/9388.png",
   "attributes": [
   {
-      "display_type": "number",
       "trait_type": "Generation",
       "value": 1
     },
     {
-      "display_type": "number",
       "trait_type": "Sequence",
       "value": 9388
     },
     {
-      "display_type": "number",
       "trait_type": "Attribute Count",
       "value": 3
     },
